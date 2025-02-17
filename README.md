@@ -1,4 +1,4 @@
-# net_learnin
+# net_learning
 ## About me
 - ✨ 系級：科技系4年級
 - ✨ 姓名：簡珮軒
@@ -6,7 +6,7 @@
 ## Record
 ### 2025/02/17
 - VS Code Virtual Environment, Python, Hugging Face Pipeline
-- (img)[]
+- ![result](https://github.com/cpeggy/DataStructure/blob/main/messageImage_1685116156234.jpg)
 - 
 ## Homework
 ## Course ppt
