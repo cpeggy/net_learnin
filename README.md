@@ -6,17 +6,17 @@
 ## Record
 ### 2025/02/17
 - Create VS Code Virtual Environment
-```
-python3 -m venv venv
-```
-```
-source venv/bin/activate
-```
+  ```
+  python3 -m venv venv
+  ```
+  ```
+  source venv/bin/activate
+  ```
 - Use Python to use Hugging Face Pipeline
-```
-pip install torch torchvision torchaudio
-```
-- ![result](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-02-17%2023.54.46.png)
+  ```
+  pip install torch torchvision torchaudio
+  ```
+  -  ![result](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-02-17%2023.54.46.png)
 ### 2025/02/24
 
 ## Homework
