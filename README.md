@@ -19,15 +19,16 @@
   ![result](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-02-17%2023.54.46.png)
 ### 2025/02/24
 - Use Gemini API KEY as AI agent
+  - 
   ```
   UserMessage(content="What is AI?")
   ```
-  Response
+  - Response
   ![result](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-02-24%2014.48.32.png)
   - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aimodel.py)
 - multiAgent
   **Have problem with creating a terminated agent**
-  Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/testtest.py)
+  - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/testtest.py)
 - AI Agent service diagram 
 ## Homework
 ## Course ppt
