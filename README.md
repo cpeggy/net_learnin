@@ -23,11 +23,12 @@
   UserMessage(content="What is AI?")
   ```
   Response
-  ![result]()
-  Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aimodel.py)
+  ![result](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-02-24%2014.48.32.png)
+  - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aimodel.py)
 - multiAgent
-- **Have problem**
-  Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aimodel.py)
+  **Have problem with creating a terminated agent**
+  Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/testtest.py)
+- AI Agent service diagram 
 ## Homework
 ## Course ppt
 - [Week 1](https://docs.google.com/presentation/d/1ao4jEB4lJg-ldtN8t88yivU4lr_uZpf-NxSrNZF9O7I/edit#slide=id.p)
