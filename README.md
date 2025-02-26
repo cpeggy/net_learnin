@@ -29,6 +29,9 @@
   **Have problem with creating a terminated agent**
   - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/testtest.py)
 - AI Agent service diagram
+  - Function：To create a AI Agent to make persona by analying survey result and other resource.
+  - Diagram：
+  - 
 ### 2025/03/03 
 ## Homework
 ## Course ppt
