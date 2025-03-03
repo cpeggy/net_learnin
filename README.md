@@ -34,7 +34,10 @@
   - Diagram：
   - ![dia](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-03-03%2009.23.06.png)
 ### 2025/03/03 
-
+- Data agent
+  - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week3rec/test_dataagent.py)
+    - Based on the authorization of data from my company, data and result can't shared.
+  - Next: to authorize old data
 ## Homework
 ## Course ppt
 - [Week 1](https://docs.google.com/presentation/d/1ao4jEB4lJg-ldtN8t88yivU4lr_uZpf-NxSrNZF9O7I/edit#slide=id.p)
