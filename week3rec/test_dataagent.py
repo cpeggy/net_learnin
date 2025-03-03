@@ -32,12 +32,7 @@ async def process_chunk(chunk, start_idx, total_records, model_client, terminati
         f"目前正在處理第 {start_idx} 至 {start_idx + len(chunk) - 1} 筆問卷資料（共 {total_records} 筆）。\n"
         f"以下為該批次問卷資料:\n{chunk_data}\n\n"
         "請根據以上問卷資料進行分析，並生成受訪者的 persona 概觀，特別包含以下要素：\n"
-        "  1. 受訪者的動機：他們為何想要考取日檢 N4/N3；\n"
-        "  2. 挑戰與困難點：受訪者在備考過程中遇到的最大挑戰；\n"
-        "  3. 日文程度：受訪者目前的日文能力；\n"
-        "  4. 目標：受訪者是否專注於 N4 或 N3，或兩者都要準備；\n"
-        "  5. 最感興趣的學習方式：他們對不同學習方式（如單字卡、聽解訓練）的偏好。\n"
-        "此外，請 MultimodalWebSurfer 搜尋外部網站，尋找最新的日檢學習建議（例如 N4/N3 的學習資源），"
+        # 請 AI 整理資料中建立 Persona 需要請 Agent 的問題
         "並將搜尋結果整合到建議中。\n"
         "請各代理人協同合作，提供完整且具參考價值的 persona 概觀與學習建議。"
     )
