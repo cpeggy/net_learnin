@@ -38,7 +38,7 @@
   - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week3rec/test_dataagent.py)
     - Based on the authorization of data from my company, data and result can't shared.
   - Diagram：
-  - ![dia]()
+  - ![dia](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-03-03%2023.42.51.png)
   - Next:
     - customize assistants property
     - to authorize old data
