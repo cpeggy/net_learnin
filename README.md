@@ -31,7 +31,7 @@
 - AI Agent service diagram
   - Function：To create a AI Agent to make persona by analying survey result and other resource.
   - Diagram：
-  - 
+  - ![dia](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-03-03%2009.23.06.png)
 ### 2025/03/03 
 ## Homework
 ## Course ppt
