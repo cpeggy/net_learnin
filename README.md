@@ -26,13 +26,15 @@
   ![result](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-02-24%2014.48.32.png)
   - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aimodel.py)
 - multiAgent
-  **Have problem with creating a terminated agent**
-  - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/testtest.py)
+  - Three agents: assistant, web_surfer, critic
+  - Stop with **textMentionTermination("TERMINATE")**
+  - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
 - AI Agent service diagram
   - Function：To create a AI Agent to make persona by analying survey result and other resource.
   - Diagram：
   - ![dia](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-03-03%2009.23.06.png)
 ### 2025/03/03 
+
 ## Homework
 ## Course ppt
 - [Week 1](https://docs.google.com/presentation/d/1ao4jEB4lJg-ldtN8t88yivU4lr_uZpf-NxSrNZF9O7I/edit#slide=id.p)
