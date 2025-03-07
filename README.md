@@ -43,5 +43,6 @@
     - customize assistants property
     - to authorize old data
 ## Homework
+- [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
 ## Course ppt
 - [Week 1](https://docs.google.com/presentation/d/1ao4jEB4lJg-ldtN8t88yivU4lr_uZpf-NxSrNZF9O7I/edit#slide=id.p)
