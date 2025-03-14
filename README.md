@@ -42,7 +42,15 @@
   - Next:
     - customize assistants property
     - to authorize old data
+### 2025/03/10
+- Project version of Data agent
+  - full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week3rec/proj_dataagent.py)
+- Active with UI
+  - full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week4rec/proj_dataagentUI.py)
+  - Based on the authorization of data from my company, data and result can't shared.
+
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
+- [HW2](https://github.com/cpeggy/net_learnin/blob/main/week4rec/proj_dataagentUI.py)
 ## Course ppt
 - [Week 1](https://docs.google.com/presentation/d/1ao4jEB4lJg-ldtN8t88yivU4lr_uZpf-NxSrNZF9O7I/edit#slide=id.p)
