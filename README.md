@@ -47,7 +47,8 @@
   - full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week3rec/proj_dataagent.py)
 - Active with UI
   - full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week4rec/proj_dataagentUI.py)
-  - Based on the authorization of data from my company, data and result can't shared.
+### 2025/03/17
+
 
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
