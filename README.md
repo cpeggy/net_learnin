@@ -48,8 +48,11 @@
 - Active with UI
   - full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week4rec/proj_dataagentUI.py)
 ### 2025/03/17
-
-
+- Public opinion analysis for product TA
+  - Full code: [Here](https://github.com/cpeggy/net_learnin/blob/main/week5rec/proj_anasaying.py)
+  - How it actives?
+    - Authorize Google Custom Search API and Google Custom Search
+    - To search for opinion analysis (definition titles and descriptions) and canculate definition titles times.
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
 - [HW2](https://github.com/cpeggy/net_learnin/blob/main/week4rec/proj_dataagentUI.py)
