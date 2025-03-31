@@ -56,8 +56,11 @@
 ### 2025/03/24
 ### 2025/03/31
 - Extract legally JSON by Gemini response.
-  - Full code
+  - Full code:[Here](https://github.com/cpeggy/net_learnin/blob/main/week7rec/proj_dataper.py)
   - How it actives?
+    - check all_persona where is invalidated
+    - to fixed it
+    - output .JSON
 
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
