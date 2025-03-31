@@ -53,8 +53,16 @@
   - How it actives?
     - Authorize Google Custom Search API and Google Custom Search
     - To search for opinion analysis (definition titles and descriptions) and canculate definition titles times.
+### 2025/03/24
+### 2025/03/31
+- Extract legally JSON by Gemini response.
+  - Full code
+  - How it actives?
+
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
 - [HW2](https://github.com/cpeggy/net_learnin/blob/main/week4rec/proj_dataagentUI.py)
+- ![re1](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-03-29%2015.04.46.png)
+- ![re2](https://github.com/cpeggy/net_learnin/blob/main/%E6%88%AA%E5%9C%96%202025-03-29%2015.06.04.png)
 ## Course ppt
 - [Week 1](https://docs.google.com/presentation/d/1ao4jEB4lJg-ldtN8t88yivU4lr_uZpf-NxSrNZF9O7I/edit#slide=id.p)
