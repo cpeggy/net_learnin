@@ -1,4 +1,4 @@
-歡迎來玩玩看-->[gogogo](https://cpeggy-poa.onrender.com/)
+歡迎來玩玩看 --> [gogogo點開就可以用了不過要等一下](https://cpeggy-poa.onrender.com/)
 
 不過在開始之前先看這份文件
 
