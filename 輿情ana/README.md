@@ -2,7 +2,7 @@
 
 不過在開始之前先看這份文件
 
-
+---
 ### 使用程式前置作業：申請 Gemini API 和 Google Custom Search API
 
 #### 1. 申請 Gemini API
