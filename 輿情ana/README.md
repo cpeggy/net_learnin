@@ -34,3 +34,4 @@
 - 會出現建立成功，接下來點選 **自訂** 的按鈕
 - 在基本資訊中有一個 **搜尋引擎 ID**
   - 把 ID 複製到[這裡](https://cpeggy-poa.onrender.com/)輸入到 **API 設定** 的 **Google Custom Search ID** 輸入匡內
+- 一樣建議可以貼在暫存區（電腦便利貼、備忘錄...等）
