@@ -9,7 +9,7 @@
 
 ##### 步驟 1：進入 [Gemini API 網頁](https://ai.google.dev/gemini-api/docs?hl=zh-tw).
 
-##### 步驟 2：按下 **取得 Gemini API 金鑰
+##### 步驟 2：按下 **取得 Gemini API** 金鑰
 - 可能會要你登入，就登自己的 Google 帳號登入。
 
 ##### 步驟 3：選擇 **Get API Key**
