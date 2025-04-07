@@ -1,6 +1,6 @@
 歡迎來玩玩看 --> [gogogo 點開就可以用了不過要等一下](https://cpeggy-poa.onrender.com/)
 
-不過在開始之前先看這份文件
+不過在開始之前先跟著這份文件拿到 KEY 才能體驗
 
 ### 使用程式前置作業：申請 Google Custom Search API 和 Google Custom Search ID 和 Gemin API
 ---
