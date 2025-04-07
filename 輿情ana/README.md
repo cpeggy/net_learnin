@@ -2,9 +2,8 @@
 
 不過在開始之前先看這份文件
 
+### 使用程式前置作業：申請 Google Custom Search API 和 Google Custom Search ID 和 Gemin API
 ---
-## 使用程式前置作業：申請 Google Custom Search API 和 Google Custom Search ID 和 Gemin API
-
 #### 1. 申請 Google Custom Search API
 
 ##### 步驟 1：進入 [Google Custom Search API 網頁](https://developers.google.com/custom-search/v1/overview?hl=zh-tw).
