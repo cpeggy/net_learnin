@@ -3,9 +3,9 @@
 不過在開始之前先看這份文件
 
 ---
-## 使用程式前置作業：申請 Google Custom Search API 和 Google Custom Search ID
+## 使用程式前置作業：申請 Gemin API、Google Custom Search API 和 Google Custom Search ID
 
-#### 1. 申請 Google Custom Search API
+#### 1. 申請 Gemin API
 
 ##### 步驟 1：進入 [Google Custom Search API 網頁](https://developers.google.com/custom-search/v1/overview?hl=zh-tw).
 
@@ -23,7 +23,25 @@
 
 ---
 
-#### 2. 申請 Google Custom Search ID
+#### 2. 申請 Google Custom Search API
+
+##### 步驟 1：進入 [Google Custom Search API 網頁](https://developers.google.com/custom-search/v1/overview?hl=zh-tw).
+
+##### 步驟 2：往下滑到 API 金鑰，按下 **取得金鑰**
+- 可能會要你登入，就登自己的 Google 帳號登入。
+
+##### 步驟 3：Enable Custom Search API
+- 設定專案名稱（取一個你開心的名稱）
+- 同意隱私權設定
+- 按下 YES
+- 會產出一個 API Key
+  - 按下 SHOW KEY 後複製你的 key
+  - 請到[這裡](https://cpeggy-poa.onrender.com/)到 **API 設定** 的 **API Key** 將剛剛複製的 API Key 貼進去
+- 建議可以貼在暫存區（電腦便利貼、備忘錄...等）
+
+---
+
+#### 3. 申請 Google Custom Search ID
 
 ##### 步驟 1：前往 Google Custom Search 網站
 - 進入 [Google Custom Search](https://programmablesearchengine.google.com/about/) 並按下 Get Started。
