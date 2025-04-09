@@ -50,5 +50,5 @@
 ##### 步驟 3：選擇 **Get API Key**
 - 要先同意隱私權才能繼續使用
 - 會產出一個 API Key 按下複製後
- - 請到［這裡](https://cpeggy=poa.onrender.com/）到 **API 設定** 將剛剛複製的 **API Key** 貼進去
+ - 請到[這裡](https://cpeggy=poa.onrender.com/)到 **API 設定** 將剛剛複製的 **API Key** 貼進去
  - 建議可以貼在暫存區（電腦便利貼、備忘錄.等）
