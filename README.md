@@ -69,7 +69,7 @@
   - 使用者自述個人穿衣習慣（怕冷怕熱或到什麼程度會穿長袖之類）
   - Gemini 根據天氣溫度與穿衣習慣給予建議（print 在 terminal 外也有存成 .csv）
   - Fuul code:[Here](https://github.com/cpeggy/net_learnin/blob/main/week9rec/pra_playoutput.py)
-  - result:[!respic](https://github.com/cpeggy/net_learnin/blob/main/week9rec/%E6%88%AA%E5%9C%96%202025-04-14%2022.44.39.png)
+  - result:![respic](https://github.com/cpeggy/net_learnin/blob/main/week9rec/%E6%88%AA%E5%9C%96%202025-04-14%2022.44.39.png)
 
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
