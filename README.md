@@ -62,6 +62,14 @@
     - to fixed it
     - output .JSON
 ### 2025/04/07
+- Read data from existing SaaS services and pass it to LLM for aggregation and statistical reporting.
+- 程式說明：
+  - 用中央氣象局（不確定算不算一種SaaS）網站資料
+  - 使用 playwright 模仿使用者點選（終端機輸入指定的）指定區域和日期後讀取當天溫度、體感溫度、天氣狀態
+  - 使用者自述個人穿衣習慣（怕冷怕熱或到什麼程度會穿長袖之類）
+  - Gemini 根據天氣溫度與穿衣習慣給予建議（print 在 terminal 外也有存成 .csv）
+  - Fuul code:[Here](https://github.com/cpeggy/net_learnin/blob/main/week9rec/pra_playoutput.py)
+  - result:[!respic](https://github.com/cpeggy/net_learnin/blob/main/week9rec/%E6%88%AA%E5%9C%96%202025-04-14%2022.44.39.png)
 
 ## Homework
 - [HW1](https://github.com/cpeggy/net_learnin/blob/main/week2rec/test_aiage3.py)
